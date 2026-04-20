@@ -1,0 +1,7 @@
+id: dna://repo/gotexis-homebrew-tap
+type: repo
+title: homebrew-tap — Homebrew formula tap
+description: Homebrew tap repository for gotexis/exisz OSS tools.
+homepage: https://github.com/gotexis/homebrew-tap
+status: active
+managed_by: dna://agent/nebula
